@@ -2,8 +2,8 @@
 A browser version of the two-player connect board game that is a must for every (digital) household.
 
 <p align="center">
-<img src="/readme-material/connect-four-screenshot.png" width="400" alt="Game" >
-<img src="/readme-material/connect-four-win.gif" width="400" alt="Win animation" >
+<img width="400" alt="connect-four-screenshot" src="https://user-images.githubusercontent.com/85343170/150611237-9b358a3f-0ce4-4c99-8b60-e6d016b7c7bc.png">
+<img width="420" alt="connect-four-gif" src="https://user-images.githubusercontent.com/85343170/150611728-c66801d8-a525-479e-8c60-13609bc10ae3.gif">
 </p>
 
 ## Features
@@ -18,3 +18,8 @@ In this connect-four browser game
 ## Stack
 
 To create this browser game I use _CSS_, _HTML_ and _JavaScript_.
+
+## Install and Open
+1. Clone repository: `git clone git@github.com:rubyrazor/connect-four.git`
+2. Navigate into directory: `cd connect-four`
+3. Open `index.js` in browser
