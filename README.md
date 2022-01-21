@@ -8,7 +8,7 @@ A browser version of the two-player connect board game that is a must for every 
 </p>
 
 ## Features
-I this connect-four browser game 
+In this connect-four browser game 
 
 - user can add tokens by clicking on the respective slots,
 - players are automatically switched,
