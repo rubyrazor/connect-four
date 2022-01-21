@@ -1,10 +1,9 @@
 # Connect Four
-
 A browser version of the two-player connect board game that is a must for every (digital) household.
 
 <p align="center">
-<img src="/readme-material/connect-four-screenshot.png" width="400" alt="Game">
-<img src="/readme-material/connect-four-win.gif" width="400" alt="Win animation">
+<img src="/readme-material/connect-four-screenshot.png" width="400" alt="Game" >
+<img src="/readme-material/connect-four-win.gif" width="400" alt="Win animation" >
 </p>
 
 ## Features
