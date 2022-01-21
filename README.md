@@ -16,7 +16,10 @@ In this connect-four browser game
 - four winning tokens (horizontal, vertical or diagonal) start flashing.
 
 ## Stack
-
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=302d2d&logo=css3&logoColor=1572B6)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=302d2d&logo=javascript&logoColor=F0DB4F)](#)
+</br></br>
 To create this browser game I use _CSS_, _HTML_ and _JavaScript_.
 
 ## Install and Open
