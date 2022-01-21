@@ -18,4 +18,4 @@ I this connect-four browser game
 
 ## Stack
 
-To create this browser game I only user _CSS_, _HTML_ and _JavaScript_.
+To create this browser game I use _CSS_, _HTML_ and _JavaScript_.
