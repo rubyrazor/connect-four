@@ -1,5 +1,5 @@
 # Connect Four
-A browser version of the two-player connect board game that is a must for every (digital) household.
+A browser version of the two-player connect board game.
 
 <p align="center">
 <img width="300" alt="connect-four-screenshot" src="https://user-images.githubusercontent.com/85343170/150611237-9b358a3f-0ce4-4c99-8b60-e6d016b7c7bc.png">
