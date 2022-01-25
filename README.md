@@ -9,7 +9,7 @@ A browser version of the two-player connect board game.
 ## Features
 In this connect-four browser game 
 
-- user can add tokens by clicking on the respective slots,
+- users can add tokens by clicking on the respective slots,
 - players are automatically switched,
 - a counter counts wins,
 - a reset button allows to restart the game,
