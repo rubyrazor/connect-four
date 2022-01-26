@@ -83,8 +83,6 @@
             }
         }
 
-        console.log(slotsInDiagonalBottomUp);
-
         if (
             checkForVictory(slotsInCol) ||
             checkForVictory(slotsInRow) ||
@@ -124,6 +122,7 @@
     //#1 DETERMINE ROW, COLUMN AND DIAGONAL VICTORY,
     //#2 SWITCH PLAYER &
     //#3 BUTTON
+    //#4 DISPLAY WINS
 
     //#1
     function checkForVictory(slots) {
@@ -132,7 +131,6 @@
             if (slots.eq(i).hasClass(currPlayer)) {
                 winningCheckers.push(slots.eq(i).children());
                 count++;
-                console.log(count);
                 if (count === 4) {
                     return true;
                 }
