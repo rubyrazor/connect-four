@@ -7,13 +7,13 @@ A browser version of the two-player connect board game.
 </p>
 
 ## Features
-In this connect-four browser game 
+In this browser version of connect four
 
-- users can add tokens by clicking on the respective slots,
-- players are automatically switched,
-- a counter counts wins,
-- a reset button allows to restart the game,
-- four winning tokens (horizontal, vertical or diagonal) start flashing.
+- players can add a token by clicking on the respective slots,
+- players are automatically switched after each turn,
+- a counter counts the wins of each player,
+- a reset button allows to set the counter to zero,
+- the four winning tokens (horizontal, vertical or diagonal) start flashing.
 
 ## Stack
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=302d2d&logo=css3&logoColor=1572B6)](#)
@@ -25,4 +25,4 @@ To create this browser game I use _CSS_, _HTML_ and _JavaScript_.
 ## Install and Open
 1. Clone repository: `git clone git@github.com:rubyrazor/connect-four.git`
 2. Navigate into directory: `cd connect-four`
-3. Open `index.js` in browser
+3. Open `index.js` in your browser
